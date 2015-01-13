@@ -1,3 +1,0 @@
-user2
-ajout une ligne
-create conflict to be solved with rebase
